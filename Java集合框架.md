@@ -18,6 +18,6 @@ Queue:队列 LikedList实现了Queue接口，可以把LinkedList当成Queue来�
 
 
 
-Map(存储键值对):HashMap（根据键的HashCode值存储数据，具有很快的访问速度，最多允许一条记录的键为null，不支持线程同步。）SortedMap(使 Key 保持在升序排列) TreeMap LinkedHashMap WeakHashMap Hashtable
+Map(存储键值对):HashMap（根据键的HashCode值存储数据，具有很快的访问速度，最多允许一条记录的键为null，不支持线程同步）SortedMap(使 Key 保持在升序排列) TreeMap LinkedHashMap WeakHashMap Hashtable
 
 常用的有:ArrayList、LinkedList、HashSet、LinkedHashSet、HashMap、LinkedHashMap 等等
